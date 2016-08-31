@@ -1,0 +1,21 @@
+.color-white{
+    color: #ffffff!important;
+}
+.color-black{
+    color: #000000!important;
+}
+.color-UP{
+    color: #ea4b4b!important;
+}
+.bgcolor-blcak{
+    background-color: #000!important;
+}
+.bgcolor-white{
+    background-color:#fff!important;
+}
+.text-center{
+    text-align: center;
+}
+ol{
+    list-style: normal;
+}
